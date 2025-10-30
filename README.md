@@ -1,6 +1,6 @@
 # Hi there, I'm Brian 👋  
 
-![My Avatar](./mycartoon.png)
+![My Avatar](./mycartoon.png.png)
 
 I'm passionate about tech, entrepreneurship, and innovation.  
 Welcome to my GitHub profile!
