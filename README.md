@@ -1,6 +1,4 @@
-<p align="right">
-  <img src="mycartoon.png.png" width="200" style="border-radius:50%;" />
-</p>
+<img align="right" src="mycartoon.png.png" width="200" />
 
 # Hi there, I'm Brian 👋  
 
