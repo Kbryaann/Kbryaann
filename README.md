@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi there, I'm Brian 👋  
+
+![My Avatar](./mycartoon.png)
+
+I'm passionate about tech, entrepreneurship, and innovation.  
+Welcome to my GitHub profile!
+
 
 <!--
 **Kbryaann/Kbryaann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
