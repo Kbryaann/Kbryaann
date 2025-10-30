@@ -1,9 +1,10 @@
-<img align="right" src="mycartoon.png.png" width="200" />
+<img align="right" src="mycartoon.png.png" width="100" />
+# Hello there 👋, I'm Brian   
 
-# Hi there, I'm Brian 👋  
+I am a newbie in the tech space with a foundation in problem-solving, algorithms, Python, C, SQL, and JavaScript.
+I also have experience with CMS platforms like WordPress and Wix, combined with HTML and CSS, to create visually 
+appealing websites and programs .
 
-I'm passionate about tech, entrepreneurship, and innovation.  
-Welcome to my GitHub profile!
 
 
 <!--
