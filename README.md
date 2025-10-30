@@ -1,3 +1,5 @@
+<img align="right" src="mycartoon.png.png" width="200" />
+
 # Hi there, I'm Brian 👋  
 
 ![My Avatar](./mycartoon.png.png)
