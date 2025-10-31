@@ -17,8 +17,8 @@
 </span>
 <p align="left">
   <img src="icon-url" width="30" style="vertical-align: middle; margin-right: 10px;">
-  <span>Text about yourself or the tool</span>
-</p>
+  <span>
+
 
 #Hello there 👋, I'm Brian
 
@@ -31,7 +31,7 @@ My goal is to grow my skills step by step, create useful things, and contribute 
 
 
 ![Pac-Man Dark Mode Graph](https://raw.githubusercontent.com/Kbryaann/Kbryaann/main/output/pacman-contribution-graph-dark.svg)
-
+</p>
 
 
 
