@@ -1,9 +1,4 @@
 <img align="right" src="mycartoon.png.png" width="100" />
-# Hello there 👋, I'm Brian   
-
-I am a newbie in the tech space with a foundation in problem-solving, algorithms, Python, C, SQL, and JavaScript.
-I also have experience with CMS platforms like WordPress and Wix, combined with HTML and CSS, to create visually 
-appealing websites and programs .
 
 <div align="center">
   <picture>
@@ -12,6 +7,17 @@ appealing websites and programs .
     <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Kbryaann/Kbryaann/output/pacman-contribution-graph.svg">
   </picture>
 </div>
+
+# Hello there 👋, I'm Brian   
+
+I am a newbie in the tech space with a foundation in problem-solving, algorithms, Python, C, SQL, and JavaScript.
+I also have experience with CMS platforms like WordPress and Wix, combined with HTML and CSS, to create visually 
+appealing websites and programs .
+
+
+![Pac-Man graph](https://raw.githubusercontent.com/Kbryaann/Kbryaann/output/pacman-contribution-graph.svg)
+
+
 
 
 
