@@ -14,12 +14,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="25" style="vertical-align: middle;"/> PowerShell
 </span>
 
+
 # Hello there 👋, I'm Brian   
 
 I am a newbie in the tech space with a foundation in problem-solving, algorithms, Python, C, SQL, and JavaScript.
 I also have experience with CMS platforms like WordPress and Wix, combined with HTML and CSS, to create visually 
 appealing websites and programs .
-
 
 ![Pac-Man Dark Mode Graph](https://raw.githubusercontent.com/Kbryaann/Kbryaann/main/output/pacman-contribution-graph-dark.svg)
 
