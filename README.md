@@ -5,6 +5,15 @@ I am a newbie in the tech space with a foundation in problem-solving, algorithms
 I also have experience with CMS platforms like WordPress and Wix, combined with HTML and CSS, to create visually 
 appealing websites and programs .
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kbryaann/Kbryaann/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kbryaann/Kbryaann/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Kbryaann/Kbryaann/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
+
 
 
 <!--
