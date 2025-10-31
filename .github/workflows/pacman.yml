@@ -8,18 +8,20 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Allow the bot to push files
+
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Generate Pac-Man graph
+      - name: Generate Pac-Man contribution graph
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            ./output/pacman-contribution-graph.svg
-            ./output/pacman-contribution-graph-dark.svg?palette=github-dark
-          theme_name: pacman  # 👈 this is the key line!
+            ./output/pacman-contribution-graph.svg?theme=pacman
+            ./output/pacman-contribution-graph-dark.svg?palette=github-dark&theme=pacman
 
       - name: Push generated files
         uses: EndBug/add-and-commit@v9
