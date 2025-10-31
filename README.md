@@ -15,7 +15,8 @@ I also have experience with CMS platforms like WordPress and Wix, combined with 
 appealing websites and programs .
 
 
-![Pac-Man graph](https://raw.githubusercontent.com/Kbryaann/Kbryaann/output/pacman-contribution-graph.svg)
+![Pac-Man graph](https://raw.githubusercontent.com/Kbryaann/Kbryaann/main/output/pacman-contribution-graph.svg)
+
 
 
 
