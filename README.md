@@ -15,6 +15,12 @@
   <img src="./assets/sql.svg" alt="SQL" width="40" />
   <img src="./assets/powershell.svg" alt="PowerShell" width="40" />
 </p>
+### 🧠 Languages:
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="25"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="25"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="25"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="25"/> 
 
 # Hello there 👋, I'm Brian   
 
