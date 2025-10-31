@@ -6,15 +6,6 @@
     <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Kbryaann/Kbryaann/output/pacman-contribution-graph.svg">
   </picture>
 </div>
-### 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="./assets/c.svg" alt="C" width="40" />
-  <img src="./assets/python.svg" alt="Python" width="40" />
-  <img src="./assets/bash.svg" alt="Bash" width="40" />
-  <img src="./assets/sql.svg" alt="SQL" width="40" />
-  <img src="./assets/powershell.svg" alt="PowerShell" width="40" />
-</p>
 ### 🧠 Languages:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="25"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25"/> 
