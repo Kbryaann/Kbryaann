@@ -9,11 +9,11 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img alt="C" src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="./assets/c.svg" alt="C" width="40" />
+  <img src="./assets/python.svg" alt="Python" width="40" />
+  <img src="./assets/bash.svg" alt="Bash" width="40" />
+  <img src="./assets/sql.svg" alt="SQL" width="40" />
+  <img src="./assets/powershell.svg" alt="PowerShell" width="40" />
 </p>
 
 # Hello there 👋, I'm Brian   
