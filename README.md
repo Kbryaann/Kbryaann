@@ -15,12 +15,12 @@
 </span>
 
 
+
 Hello there 👋, I'm Brian
 
 I’m on a journey to understand technology from the ground up.
 I enjoy experimenting, learning from mistakes, and discovering smarter ways to solve problems.
-Every project I build teaches me something new — whether it’s about how systems work, how people interact with technology, or how small details can make a big difference.
-
+Every project I do teaches me something new, whether it’s about how systems work, how people interact with technology, or how small details can make a big difference.
 I’m driven by curiosity and a desire to keep improving every day.
 My goal is to grow my skills step by step, create useful things, and contribute to projects that make learning fun.
 
