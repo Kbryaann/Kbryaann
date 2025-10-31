@@ -15,11 +15,14 @@
 </span>
 
 
-# Hello there 👋, I'm Brian   
+Hello there 👋, I'm Brian
 
-I am a newbie in the tech space with a foundation in problem-solving, algorithms, Python, C, SQL, and JavaScript.
-I also have experience with CMS platforms like WordPress and Wix, combined with HTML and CSS, to create visually 
-appealing websites and programs .
+I’m on a journey to understand technology from the ground up.
+I enjoy experimenting, learning from mistakes, and discovering smarter ways to solve problems.
+Every project I build teaches me something new — whether it’s about how systems work, how people interact with technology, or how small details can make a big difference.
+
+I’m driven by curiosity and a desire to keep improving every day.
+My goal is to grow my skills step by step, create useful things, and contribute to projects that make learning fun.
 
 ![Pac-Man Dark Mode Graph](https://raw.githubusercontent.com/Kbryaann/Kbryaann/main/output/pacman-contribution-graph-dark.svg)
 
