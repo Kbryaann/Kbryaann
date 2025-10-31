@@ -17,9 +17,9 @@
 
 # Hello there 👋, I'm Brian   
 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="25" style="vertical-align: middle;"/> C&nbsp;I am a newbie in the tech space with a foundation in problem-solving, algorithms, Python, C, SQL, and JavaScript.
-I also have experience with CMS platforms like WordPress and Wix, combined with HTML and CSS, to create visually 
-appealing websites and programs .
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="25" style="vertical-align: middle;"/> C&nbsp;  I am a newbie in the tech space with a foundation in problem-solving, algorithms, Python, C, SQL, and JavaScript.
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" style="vertical-align: middle;"/> Python&nbsp;  I also have experience with CMS platforms like WordPress and Wix, combined with HTML and CSS, to create visually 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="25" style="vertical-align: middle;"/> Bash&nbsp;  appealing websites and programs .
 
 
 ![Pac-Man Dark Mode Graph](https://raw.githubusercontent.com/Kbryaann/Kbryaann/main/output/pacman-contribution-graph-dark.svg)
