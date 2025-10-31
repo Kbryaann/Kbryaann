@@ -14,7 +14,7 @@ I also have experience with CMS platforms like WordPress and Wix, combined with 
 appealing websites and programs .
 
 
-![Pac-Man Dark Mode Graph](https://raw.githubusercontent.com/Kbryaann/Kbryaann/main/output/pacman-dark.svg)
+![Pac-Man Dark Mode Graph](https://raw.githubusercontent.com/Kbryaann/Kbryaann/main/output/pacman-contribution-graph-dark.svg)
 
 
 
