@@ -2,8 +2,8 @@ name: Generate Pac-Man Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # runs daily
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # runs once a day at midnight
+  workflow_dispatch:      # lets you run manually from the Actions tab
 
 jobs:
   build:
@@ -19,3 +19,11 @@ jobs:
           outputs: |
             ./output/pacman-contribution-graph.svg
             ./output/pacman-contribution-graph-dark.svg?palette=github-dark
+
+      - name: Push generated files
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "chore: update Pac-Man contribution graph"
+          add: "output"
