@@ -16,7 +16,7 @@
 
 
 
-Hello there 👋, I'm Brian
+#Hello there 👋, I'm Brian
 
 I’m on a journey to understand technology from the ground up.
 I enjoy experimenting, learning from mistakes, and discovering smarter ways to solve problems.
