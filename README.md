@@ -16,10 +16,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="25" style="vertical-align: middle;"/> PowerShell
 </span>
 <p align="left">
- 
+   <span>
 
-  <span>
-#Hello there 👋, I'm Brian
+     
+     
+  #Hello there 👋, I'm Brian
 
 
 I’m on a journey to understand technology from the ground up.
