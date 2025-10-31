@@ -6,6 +6,15 @@
     <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Kbryaann/Kbryaann/output/pacman-contribution-graph.svg">
   </picture>
 </div>
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img alt="C" src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white" />
+</p>
 
 # Hello there 👋, I'm Brian   
 
