@@ -16,7 +16,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="25" style="vertical-align: middle;"/> PowerShell
 </span>
 <p align="left">
-  <img src="icon-url" width="30" style="vertical-align: middle; margin-right: 10px;">
   <span>
 
 
