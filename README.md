@@ -1,5 +1,4 @@
 <img align="right" src="mycartoon.png.png" width="100" />
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kbryaann/Kbryaann/output/pacman-contribution-graph-dark.svg">
