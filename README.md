@@ -7,11 +7,14 @@
   </picture>
 </div>
 ### 🧠 Languages:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="25"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="25"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="25"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="25"/> 
+<span>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="25" style="vertical-align: middle;"/> C&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" style="vertical-align: middle;"/> Python&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="25" style="vertical-align: middle;"/> Bash&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="25" style="vertical-align: middle;"/> SQL&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="25" style="vertical-align: middle;"/> PowerShell
+</span>
+
 
 # Hello there 👋, I'm Brian   
 
