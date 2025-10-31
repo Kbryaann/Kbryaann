@@ -7,18 +7,17 @@
   </picture>
 </div>
 ### 🧠 Languages:
-<span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="25" style="vertical-align: middle;"/> C&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" style="vertical-align: middle;"/> Python&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="25" style="vertical-align: middle;"/> Bash&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="25" style="vertical-align: middle;"/> SQL&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="25" style="vertical-align: middle;"/> PowerShell
-</span>
+
 
 
 # Hello there 👋, I'm Brian   
 
-I am a newbie in the tech space with a foundation in problem-solving, algorithms, Python, C, SQL, and JavaScript.
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="25" style="vertical-align: middle;"/> C&nbsp;I am a newbie in the tech space with a foundation in problem-solving, algorithms, Python, C, SQL, and JavaScript.
 I also have experience with CMS platforms like WordPress and Wix, combined with HTML and CSS, to create visually 
 appealing websites and programs .
 
