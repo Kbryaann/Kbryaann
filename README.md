@@ -1,4 +1,5 @@
 <img align="right" src="mycartoon.png.png" width="100" />
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kbryaann/Kbryaann/output/pacman-contribution-graph-dark.svg">
@@ -6,6 +7,7 @@
     <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Kbryaann/Kbryaann/output/pacman-contribution-graph.svg">
   </picture>
 </div>
+
 <span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="25" style="vertical-align: middle;"/> C&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" style="vertical-align: middle;"/> Python&nbsp;
