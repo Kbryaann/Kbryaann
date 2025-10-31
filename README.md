@@ -15,7 +15,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="25" style="vertical-align: middle;"/> SQL&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="25" style="vertical-align: middle;"/> PowerShell
 </span>
-
+<p align="left">
+  <img src="icon-url" width="30" style="vertical-align: middle; margin-right: 10px;">
+  <span>Text about yourself or the tool</span>
+</p>
 
 #Hello there 👋, I'm Brian
 
