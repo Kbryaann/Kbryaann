@@ -20,14 +20,38 @@
 
      
      
-  #Hello there 👋, I'm Brian
+ # Cybersecurity Lab Portfolio
+
+Welcome to my cybersecurity lab portfolio! This repository showcases my practical skills in:
+
+- Ethical hacking & penetration testing
+- Network scanning & enumeration
+- Malware analysis & mitigation
+- Security automation scripts
+- Capture-The-Flag (CTF) challenges
+
+## Projects Overview
+
+1. **Network Scanning Scripts**  
+   - Scripts using Nmap and Python to map vulnerable networks in a lab environment.
+
+2. **Vulnerability Testing**  
+   - SQL Injection and XSS demo scripts on local vulnerable VMs.
+
+3. **CTF Write-Ups**  
+   - Step-by-step documentation of challenges completed on Hack The Box and TryHackMe.
+
+4. **Lab Exercises**  
+   - Documentation of firewall setups, IDS/IPS testing, and malware analysis experiments.
+
+5. **Diagrams**  
+   - Visual representation of lab network topologies and workflows.
+
+## Contact
+- LinkedIn: linkedin.com/in/brian-boken-28a94b186/
+- Email: kbryaan@gmail.com
 
 
-I’m on a journey to understand technology from the ground up.
-I enjoy experimenting, learning from mistakes, and discovering smarter ways to solve problems.
-Every project I do teaches me something new, whether it’s about how systems work, how people interact with technology, or how small details can make a big difference.
-I’m driven by curiosity and a desire to keep improving every day.
-My goal is to grow my skills step by step, create useful things, and contribute to projects that make learning fun.
 
 
 ![Pac-Man Dark Mode Graph](https://raw.githubusercontent.com/Kbryaann/Kbryaann/main/output/pacman-contribution-graph-dark.svg)
