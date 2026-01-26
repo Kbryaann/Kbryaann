@@ -39,7 +39,7 @@ Welcome to my cybersecurity lab portfolio! This repository showcases my practica
    - SQL Injection and XSS demo scripts on local vulnerable VMs.
 
 3. **CTF Write-Ups**  
-   - Step-by-step documentation of challenges completed on Hack The Box and TryHackMe.
+   - Step-by-step documentation of challenges completed on Over the wire.
 
 4. **Lab Exercises**  
    - Documentation of firewall setups, IDS/IPS testing, and malware analysis experiments.
